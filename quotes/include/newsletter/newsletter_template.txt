@@ -1,0 +1,22 @@
+☀️ MORNING BREEZE
+{date}
+
+Hello, Cosmic Traveler.
+
+Three thoughts for your journey today:
+
+“{quote_text_1}”
+— {quote_author_1}
+
+“{quote_text_2}”
+— {quote_author_2}
+
+“{quote_text_3}”
+— {quote_author_3}
+
+Take what resonates.
+Leave the rest behind.
+
+Have a beautiful day. 🌅
+
+DFC Team
